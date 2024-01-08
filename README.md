@@ -1,1 +1,1 @@
-# DSA + Core CS
+# DSA + Core CS Fundamentals
